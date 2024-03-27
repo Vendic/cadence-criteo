@@ -31,13 +31,5 @@
     "psr-4": {
       "Cadence\\Criteo\\": ""
     }
-  },
-  "extra": {
-    "map": [
-      [
-        "*",
-        "Cadence/Criteo"
-      ]
-    ]
   }
 }
